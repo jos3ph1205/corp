@@ -5,10 +5,6 @@ FONTS
    font-family: "Heebo";
    src: url("assets/fonts/Heebo-VariableFont_wght.ttf");
 }
-@font-face {
-   font-family: ;
-   src: url("assets/fonts/");
-}
 
 /* --------------------------------------------------
 ROOT
